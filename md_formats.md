@@ -39,5 +39,16 @@ Some basic _git_ commands are:
 - [ ] This is yet another task
 - [X] And this is a completed task
 
+ _This is an ordered list_ 
  
+ 1. Item 1
+    * item 1.1
+ 2. Item 2
+    * item 2.1
+      * item 2.1.1
+    * item 2.2
+ 3. Item 3 
+    * item 3.1
+      * item 3.1.1
+        * item 3.1.1a
 
