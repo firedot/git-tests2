@@ -10,7 +10,7 @@ __And this is bolded again__
 
 This contains **bolded** and _italics_ 
 
-__This one _as *well* __
+__This one *as well*__
 
 **This is *unordered* List**
 
