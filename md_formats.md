@@ -9,7 +9,8 @@ _This text is also in italics_
 __And this is bolded again__
 
 This contains **bolded** and _italics_ 
-	__This one _as well_ __
+
+__This one _as *well* __
 
 **This is *unordered* List**
 
