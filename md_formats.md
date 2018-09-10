@@ -17,7 +17,9 @@ This contains **bolded** and _italics_
   * item 1.2
 * Item 2
 * Item 3
-  * Item 3.1
+  * Item 3.1 
+  
+**~~This is an example of strikedout _bolded_ text~~**
 
 
  
