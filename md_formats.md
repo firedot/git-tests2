@@ -27,5 +27,17 @@ As Leonardo Da Vinci said:
 > is the ultimate sophistication. 
 
 
+Some basic _git_ commands are: 
+    
+    git status
+    git add
+    git commit
+    
+ **This is an example of a task list**
+ 
+- [ ] This is a sample task from a task list
+- [ ] This is yet another task
+- [X] And this is a completed task
+
  
 
