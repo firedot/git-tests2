@@ -21,6 +21,11 @@ This contains **bolded** and _italics_
   
 **~~This is an example of strikedout _bolded_ text~~**
 
+As Leonardo Da Vinci said: 
+
+> Simplicity
+> is the ultimate sophistication. 
+
 
  
 
